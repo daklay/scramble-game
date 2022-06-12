@@ -61,6 +61,7 @@ body{
             // background-color: rgb(199, 103, 103);
             div{
                 padding-left: 5px;
+                line-height: 0px;
                 &:hover{
                     color: $secondarycolor;
                     cursor: pointer;

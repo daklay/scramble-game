@@ -97,6 +97,7 @@ body {
 
 .gameheader .setting .levels div, .gameheader .setting .time div {
   padding-left: 5px;
+  line-height: 0px;
 }
 
 .gameheader .setting .levels div:hover, .gameheader .setting .time div:hover {
