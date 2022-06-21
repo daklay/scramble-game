@@ -42,7 +42,7 @@ body {
 }
 
 .gameheader {
-  width: 60%;
+  width: 65%;
   height: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -108,7 +108,7 @@ body {
 }
 
 .bodygame {
-  width: 60%;
+  width: 65%;
   height: 350px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -126,7 +126,7 @@ body {
 }
 
 .bodygame p {
-  font-size: 24px;
+  font-size: 21px;
   color: #d8b4f5;
   text-align: center;
 }
@@ -213,7 +213,7 @@ body {
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
-  width: 150px;
+  width: 140px;
 }
 
 .bodygame .gamelang i {
@@ -242,7 +242,7 @@ body {
 }
 
 .gamefooter {
-  width: 60%;
+  width: 65%;
   height: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -317,13 +317,17 @@ body {
       -ms-flex-align: center;
           align-items: center;
   background-color: #d8b4f5;
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
   border-radius: 5px;
 }
 
 .gamefooter .howtoplay i {
   font-size: 20px;
   color: #020911;
+}
+
+.gamefooter .howtoplay:hover {
+  background-color: #dd3434;
 }
 /*# sourceMappingURL=style.css.map */
