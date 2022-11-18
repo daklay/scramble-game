@@ -1,2 +1,3 @@
 # SCRAMBLEMON
 > SCRAMBLEMON is a game based on smting...
+![prev](./assets/final1.png)
